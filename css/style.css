@@ -3292,7 +3292,7 @@ h6 {
 }
 
 .welcome_text p {
-    max-width: 495px;
+/*    max-width: 495px;*/
     font-family: "Roboto", sans-serif;
     margin-bottom: 40px;
 }
